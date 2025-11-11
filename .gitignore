@@ -1,0 +1,9 @@
+#CMake output directories
+out
+build
+
+#Compiled directories
+Compiled
+
+#Visual studio directories
+.vs
