@@ -18,3 +18,6 @@ endif()
 
 #Declare project
 project(YmBase VERSION 0.1)
+
+#Include subdirectory with project details
+add_subdirectory(YmBase)
